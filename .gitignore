@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+*._*
+*.buffer
+model/
+data/
+output/
